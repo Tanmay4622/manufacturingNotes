@@ -33,7 +33,7 @@ A metal forming process in which the thickness of the work is reduced by compres
 -   **Slab:** It is rolled from an ingot or a bloom and has a rectangular cross section of 250 mm width or more and thickness 40 mm or more. Slabs are rolled into plates, sheets, and strips.
 -   **Billet:** It is rolled from a bloom and is square in cross-section with dimensions 40mm on a side or more. Billets are rolled into bars, rods.
 
-![Bloom, Slab and Billet](new/bloom,%20slab%20and%20billet.png)
+![Bloom, Slab and Billet](new/bloom%20and%20slab%20and%20billet.png)
 
 ## Forging
 A deformation process in which the work piece is compressed between two dies, using either impact load or hydraulic load to deform it.
